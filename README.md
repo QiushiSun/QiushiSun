@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 Qiushi's Profile
 
+[![Qiushi's github stats](https://github-readme-stats.vercel.app/api?username=QiushiSun)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
